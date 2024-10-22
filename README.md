@@ -3,7 +3,7 @@
 ## Overview
 
 This is a simple **Basic Calculator** implemented using HTML, CSS, and JavaScript. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. 
-The calculator is designed with a clean and user-friendly interface that provides a quick and easy way to perform calculations.
+The calculator is designed with a clean and user-friendly interface that provides  quick and easy way to perform calculations.
 
 ## Features
 
