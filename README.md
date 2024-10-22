@@ -20,16 +20,7 @@ The calculator is designed with a clean and user-friendly interface that provide
 - **CSS**: For styling the calculator.
 - **JavaScript**: For handling the logic behind the arithmetic operations.
 
-## How to Use
 
-1. Clone the repository to your local machine:
-    ```bash
-    git clone https://github.com/yourusername/basic-calculator.git
-    ```
-
-2. Open the `index.html` file in your browser.
-
-3. Use the on-screen buttons to input numbers and perform calculations.
 
 
 
